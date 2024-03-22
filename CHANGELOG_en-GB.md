@@ -1,3 +1,8 @@
+# 2.0.0
+- Support for Shopware 6.5 ([Pull Request #19](https://github.com/Shape-and-Shift/shopware-variant-switch/pull/19))
+- Load variant selection on search result page ([Pull Request #15](https://github.com/Shape-and-Shift/shopware-variant-switch/pull/15))
+- Enable the display of main products in the category listing ([Pull request #14](https://github.com/Shape-and-Shift/shopware-variant-switch/pull/14))
+
 # 1.1.1 - Bugfix
 
 - [Issue #9](https://github.com/Shape-and-Shift/shopware-variant-switch/issues/9)] Carts-items without valid line items will be skipped

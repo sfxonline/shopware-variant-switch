@@ -1,3 +1,8 @@
+# 2.0.0
+- Unterstützung für Shopware 6.5 ([Pull Request #19](https://github.com/Shape-and-Shift/shopware-variant-switch/pull/19))
+- Variantenanzeige auf der Suchergebnisseite ([Pull Request #15](https://github.com/Shape-and-Shift/shopware-variant-switch/pull/15))
+- In der Liste werden die Bilder der Hauptvariante angezeigt ([Pull request #14](https://github.com/Shape-and-Shift/shopware-variant-switch/pull/14))
+
 # 1.1.1 - Bugfix
 
 - [Issue #9](https://github.com/Shape-and-Shift/shopware-variant-switch/issues/9)] Positionen ohne valide Line-Items werden übersprungen
